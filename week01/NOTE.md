@@ -5,7 +5,7 @@
     * Queue包含了许多实现类，包括了LinkedList、PriorityQueue、ArrayDeque等；
     * 包含的操作有：
 
-        ![](image/queue1.png)
+        ![](queue1.png)
 
 2. PriorityQueue源码分析
     * 在Java中，PriorityQueue是一个Class，继承了AbstractQueue抽象类，间接实现Queue接口；
@@ -16,7 +16,7 @@
     * 7个构造函数：前4个对应不同的初始容量和排序方式的入参组合；后3个对应通过传入一个PriorityQueue或SortedSet或者其他Collection的方式来初始化一个PriorityQueue；
     * 主要操作有：
 
-        ![](image/priorityQueue1.png)
+        ![](priorityQueue1.png)
 
 
  
